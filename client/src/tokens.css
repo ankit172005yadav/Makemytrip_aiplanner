@@ -1,0 +1,42 @@
+/* Shared design tokens for the planner and the guides.
+   Minimal, Apple-style: one typeface, system greys, generous space, one accent.
+   Blue is for things the traveller does. Red is reserved for the assistant:
+   its notes, the changes it proposes, and the button that accepts them. */
+
+@font-face { font-family: 'Inter'; src: url('/fonts/InterVariable.woff2') format('woff2'); font-weight: 100 900; font-display: swap; }
+
+:root {
+    --ui-font: -apple-system, BlinkMacSystemFont, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif;
+    --ui-font-display: -apple-system, BlinkMacSystemFont, 'SF Pro Display', Inter, 'Segoe UI', system-ui, sans-serif;
+
+    --ui-label: #1d1d1f;
+    --ui-label-2: #6e6e73;
+    --ui-label-3: #8e8e93;
+    --ui-separator: #e5e5ea;
+    --ui-separator-strong: #d2d2d7;
+    --ui-fill: #f5f5f7;
+    --ui-fill-2: #ebebf0;
+    --ui-surface: #fff;
+
+    --ui-tint: #0b63ce;
+    --ui-tint-hover: #0a56b3;
+    --ui-tint-wash: #eef4fd;
+    --ui-ai: #d81e27;
+    --ui-ai-ink: #b3121a;
+    --ui-ai-wash: #fff4f4;
+    --ui-good: #1c7c45;
+    --ui-good-wash: #eaf6ef;
+    --ui-warn: #b45309;
+    --ui-warn-wash: #fdf4e8;
+
+    /* budget bar segments, as shades of the tint so the bar reads as one quantity */
+    --ui-seg-flights: #0b63ce;
+    --ui-seg-stay: #5a95e0;
+    --ui-seg-activities: #a9c8f0;
+
+    --ui-radius-s: 8px;
+    --ui-radius: 12px;
+    --ui-radius-l: 18px;
+    --ui-shadow-float: 0 1px 2px #0000000d, 0 8px 28px #0000001a;
+    --ui-ease: cubic-bezier(.25, .1, .25, 1);
+}
