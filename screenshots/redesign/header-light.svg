@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Travemore. Plan a weekend, then change any part before you commit.">
+  <defs>
+    <pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="5" height="5" fill="#fdeaea"/><rect width="2" height="5" fill="#d81e27"/>
+    </pattern>
+    <clipPath id="bar"><rect x="72" y="236" width="520" height="12" rx="6"/></clipPath>
+  </defs>
+  <rect width="1280" height="320" rx="28" fill="#f5f5f7"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+    <text x="72" y="84" font-size="17" font-weight="600" fill="#6e6e73" letter-spacing="0.2">MakeMyTrip · AI trip planner prototype</text>
+    <text x="70" y="160" font-size="76" font-weight="700" fill="#1d1d1f" letter-spacing="-2.6">Travemore</text>
+    <text x="72" y="204" font-size="24" font-weight="400" fill="#6e6e73" letter-spacing="-0.3">Plan a weekend. Change any part before you commit.</text>
+    <rect x="72" y="236" width="520" height="12" rx="6" fill="#e5e5ea"/>
+    <g clip-path="url(#bar)"><rect x="72.0" y="236" width="282.3" height="12" fill="#0b63ce"/><rect x="356.3" y="236" width="126.3" height="12" fill="#5a95e0"/><rect x="484.5" y="236" width="29.2" height="12" fill="#a9c8f0"/><rect x="515.7" y="236" width="18.8" height="12" fill="url(#hatch)"/></g>
+    <text x="72" y="282" font-size="15" fill="#8e8e93"><tspan fill="#1d1d1f" font-weight="600">₹12,800</tspan> of ₹15,000 · flights, stay, things to do · <tspan fill="#d81e27" font-weight="600">₹600 saved by a proposed edit</tspan></text>
+  </g>
+  <g transform="translate(760 72)" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+    <rect width="448" height="176" rx="18" fill="#ffffff"/>
+    <g transform="translate(24 30)">
+      <text font-size="13" font-weight="700" fill="#d81e27">✦ Travemore</text>
+      <text x="96" font-size="13" fill="#6e6e73">You: Make Saturday quieter</text>
+    </g>
+    <g transform="translate(24 66)" font-size="16">
+      <circle cx="11" cy="-5" r="10" fill="none" stroke="#8e8e93" stroke-width="1.5"/>
+      <text x="32" fill="#8e8e93" text-decoration="line-through">Visvesvaraya Museum</text>
+      <text x="400" text-anchor="end" fill="#8e8e93" text-decoration="line-through">₹600</text>
+    </g>
+    <line x1="24" y1="84" x2="424" y2="84" stroke="#d2d2d7" stroke-width="1"/>
+    <g transform="translate(24 112)" font-size="16">
+      <circle cx="11" cy="-5" r="10" fill="none" stroke="#d81e27" stroke-width="1.8" stroke-dasharray="3 2.6"/>
+      <text x="32" fill="#d81e27" font-weight="600">Vidhana Soudha viewpoint</text>
+      <text x="400" text-anchor="end" fill="#1d1d1f">Free</text>
+    </g>
+    <g transform="translate(24 136)">
+      <rect width="148" height="30" rx="15" fill="#d81e27"/>
+      <text x="74" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="#fff">Apply Saturday edit</text>
+      <rect x="158" width="104" height="30" rx="15" fill="none" stroke="#d2d2d7"/>
+      <text x="210" y="20" text-anchor="middle" font-size="14" font-weight="500" fill="#1d1d1f">Keep plan</text>
+    </g>
+  </g>
+</svg>

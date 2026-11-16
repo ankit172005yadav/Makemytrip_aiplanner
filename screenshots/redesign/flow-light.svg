@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="196" viewBox="0 0 1280 196" role="img" aria-label="Five steps: ask, confirm, read, change, approve.">
+  <rect width="1280" height="196" rx="24" fill="#f5f5f7"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+    <line x1="156" y1="56" x2="1124" y2="56" stroke="#d2d2d7" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
+    <circle cx="128" cy="56" r="20" fill="#0b63ce"/><text x="128" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">1</text>
+    <text x="128" y="112" text-anchor="middle" font-size="19" font-weight="650" fill="#1d1d1f" letter-spacing="-0.3">Ask</text>
+    <text x="128" y="140" text-anchor="middle" font-size="15" fill="#6e6e73">A budget, a place</text>
+    <text x="128" y="161" text-anchor="middle" font-size="15" fill="#6e6e73">or a mood.</text><circle cx="384" cy="56" r="20" fill="#0b63ce"/><text x="384" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">2</text>
+    <text x="384" y="112" text-anchor="middle" font-size="19" font-weight="650" fill="#1d1d1f" letter-spacing="-0.3">Confirm</text>
+    <text x="384" y="140" text-anchor="middle" font-size="15" fill="#6e6e73">One question, only if</text>
+    <text x="384" y="161" text-anchor="middle" font-size="15" fill="#6e6e73">it changes the plan.</text><circle cx="640" cy="56" r="20" fill="#0b63ce"/><text x="640" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">3</text>
+    <text x="640" y="112" text-anchor="middle" font-size="19" font-weight="650" fill="#1d1d1f" letter-spacing="-0.3">Read</text>
+    <text x="640" y="140" text-anchor="middle" font-size="15" fill="#6e6e73">Flights, stay and each</text>
+    <text x="640" y="161" text-anchor="middle" font-size="15" fill="#6e6e73">day, with the budget.</text><circle cx="896" cy="56" r="20" fill="#f5f5f7" stroke="#d81e27" stroke-width="2" stroke-dasharray="4 3"/><text x="896" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#d81e27">4</text>
+    <text x="896" y="112" text-anchor="middle" font-size="19" font-weight="650" fill="#1d1d1f" letter-spacing="-0.3">Change</text>
+    <text x="896" y="140" text-anchor="middle" font-size="15" fill="#6e6e73">Edits arrive as proposals</text>
+    <text x="896" y="161" text-anchor="middle" font-size="15" fill="#6e6e73">you apply or keep.</text><circle cx="1152" cy="56" r="20" fill="#0b63ce"/><text x="1152" y="62" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">5</text>
+    <text x="1152" y="112" text-anchor="middle" font-size="19" font-weight="650" fill="#1d1d1f" letter-spacing="-0.3">Approve</text>
+    <text x="1152" y="140" text-anchor="middle" font-size="15" fill="#6e6e73">Review the whole trip,</text>
+    <text x="1152" y="161" text-anchor="middle" font-size="15" fill="#6e6e73">then approve it.</text>
+  </g>
+</svg>
